@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+I am Hafiz. Currently an intern in Softworld Software Sdn. Bhd. located in Kuching, Sarawak.
+
+Currently, I am getting familiar with Laravel.
+
+Things that I have learn:
+
+* HTML
+* CSS
+* Javascript
+* PHP
+* Python
+* Flask
+
 ### My Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apiz07&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apiz07&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
