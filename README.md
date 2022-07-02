@@ -2,6 +2,8 @@
 
 I am Hafiz. Currently an intern in Softworld Software Sdn. Bhd. located in Kuching, Sarawak.
 
+Currently, still getting use with React.
+
 Things that I have learn:
 
 * HTML
