@@ -1,17 +1,15 @@
 ### Hi there 👋
 
-I am Hafiz. Currently an intern in Softworld Software Sdn. Bhd. located in Kuching, Sarawak.
+I am Hafiz. Currently Outsystems Developer in Maybank.
 
-Currently, still getting use with React.
+Currently, I am on my journey to transition from developer to data analyst.
 
 Things that I have learn:
 
-* HTML
-* CSS
-* Javascript
-* PHP
+* SQL
+* Excel
+* Tableau
 * Python
-* Flask
 
 ### My Stats
 
@@ -22,8 +20,8 @@ Things that I have learn:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on doing a lot of beginner SQL Project
+- 🌱 I’m currently learning Tableau
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
